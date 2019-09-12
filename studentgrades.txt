@@ -1,0 +1,20 @@
+voorgerecht
+____________
+groentensoep:		8$
+tomatensoep:		4$
+
+hoofdgerechten
+______________
+ossenhaas:		12$
+kipfilet:		8$
+kipnugget:		4$
+friet-klein:		4$
+friet-groot:		6$
+
+nagerecht
+__________
+ijscoupe:		8$
+softijs:		2$
+roomeis:		6$
+
+
